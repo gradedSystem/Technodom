@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gradedSystem/Technodom.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/gradedSystem/Technodom.git/static/js/main.6976eabf.chunk.js",
+    "main.js.map": "/gradedSystem/Technodom.git/static/js/main.6976eabf.chunk.js.map",
+    "runtime-main.js": "/gradedSystem/Technodom.git/static/js/runtime-main.8dd54827.js",
+    "runtime-main.js.map": "/gradedSystem/Technodom.git/static/js/runtime-main.8dd54827.js.map",
+    "static/js/2.7599c84a.chunk.js": "/gradedSystem/Technodom.git/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/gradedSystem/Technodom.git/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/gradedSystem/Technodom.git/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/gradedSystem/Technodom.git/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/gradedSystem/Technodom.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/gradedSystem/Technodom.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/gradedSystem/Technodom.git/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gradedSystem/Technodom.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dd54827.js",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6976eabf.chunk.js"
+  ]
+}
